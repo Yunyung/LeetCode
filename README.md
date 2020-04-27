@@ -4,6 +4,8 @@ The Leetcode problems i solved were listed below
 <h2>Easy</h2>
 <ul>
 <li>1. Two Sum</li>
+<li>7. Reverse Integer</li>
+<li>9. Palindrome Number</li>
 </ul>
 <h2>Medium</h2>
 <ul>
