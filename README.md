@@ -14,4 +14,5 @@ The Leetcode problems i solved were listed below
 <li>3. Longest Substring Without Repeating Characters</li>
 <li>6. ZigZag Conversion</li>
 <li>11. Container With Most Water</li>
+<li>15. 3Sum</li>
 </ul>
