@@ -6,6 +6,8 @@ The Leetcode problems i solved were listed below
 <li>1. Two Sum</li>
 <li>7. Reverse Integer</li>
 <li>9. Palindrome Number</li>
+<li>13. Roman to Integer</li>
+<li>14. Longest Common Prefix</li>
 <li>21. Merge Two Sorted Lists</li>
 </ul>
 <h2>Medium</h2>
