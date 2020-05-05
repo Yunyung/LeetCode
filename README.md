@@ -20,5 +20,6 @@ The Leetcode problems i solved were listed below
 <li>15. 3Sum</li>
 
 <h2>May LeetCoding Challenge</h2>
-<li>week1- First Bad Version (Binary Search)<li>
+<li>week1 - First Bad Version (Binary Search)<li>
+<li>week1 - Jewels and Stones</li>
 </ul>
