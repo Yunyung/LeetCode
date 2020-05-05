@@ -9,6 +9,7 @@ The Leetcode problems i solved were listed below
 <li>13. Roman to Integer</li>
 <li>14. Longest Common Prefix</li>
 <li>21. Merge Two Sorted Lists</li>
+<li>412. Fizz Buzz</li>
 </ul>
 <h2>Medium</h2>
 <ul>
@@ -17,4 +18,7 @@ The Leetcode problems i solved were listed below
 <li>6. ZigZag Conversion</li>
 <li>11. Container With Most Water</li>
 <li>15. 3Sum</li>
+
+<h2>May LeetCoding Challenge</h2>
+<li>week1- First Bad Version (Binary Search)<li>
 </ul>
