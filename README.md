@@ -20,9 +20,10 @@ The Leetcode problems i solved were listed below
 <li>15. 3Sum</li>
 
 <h2>May LeetCoding Challenge</h2>
-<li>week1 - First Bad Version (Binary Search)<li>
+<li>week1 - First Bad Version (Binary Search)</li>
 <li>week1 - Jewels and Stones</li>
 <li>week1 - Ransom Note</li>
 <li>week1 - Number Complement</li>
 <li>week1 - First Unique Character in a String</li>
+<li>week1 - Majority Element</li>
 </ul>
